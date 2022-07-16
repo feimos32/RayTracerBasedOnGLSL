@@ -1,5 +1,8 @@
 # RayTracerBasedOnGLSL
+
 基于GLSL着色器实现的光线追踪器的详细构建过程，包含复杂模型与BVH树加速。
+
+注：教程类代码不使用Git做版本控制管理，源码以压缩包格式给出。
 
 电子书链接： [ https://dezeming.top/?page_id=1871 ]
 
